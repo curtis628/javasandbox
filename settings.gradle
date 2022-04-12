@@ -1,0 +1,2 @@
+rootProject.name = 'javasandbox'
+include('app')
